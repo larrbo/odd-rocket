@@ -1,3 +1,3 @@
 replacement pcb for the PLUM ortholinear keyboard
 
-shortcut
+https://oddrocketkeyboards.blogspot.com/2018/05/plum-ortholinear-keyboard-redux.html
