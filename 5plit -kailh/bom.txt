@@ -6,6 +6,7 @@ bill of materials
 2x trrs jacks (bend pins straight) - https://lcsc.com/product-detail/Audio-Connectors_PJ-320D-A_C95562.html
 36x diodes - https://lcsc.com/product-detail/Switching-Diode_MCC_1N4148-TP_1N4148-TP_C85687.html
 36x kailh low profile switches of your choice - https://novelkeys.xyz/
+36x kailh low profile keycaps - https://novelkeys.xyz/
 
 Note:
 the trrs jacks from lcsc are specific to this pcb. alternates may not work.
