@@ -1,0 +1,20 @@
+bill of materials
+
+PLUM ortholinear keyboard
+1x teensy 2.0 - get the real deal from pjrc
+1x pcb (easyeda/jlcpcb/lcsc)
+96x diodes - https://lcsc.com/product-detail/Switching-Diode_MCC_1N4148-TP_1N4148-TP_C85687.html
+92-96x kailh low profile switches of your choice - https://novelkeys.xyz/
+
+optional
+1x mini-usb connector - https://lcsc.com/product-detail/USB-Connectors_MINI-5PMale-head-High-temperature_C42688.html
+1x led resistor - https://lcsc.com/product-detail/Metal-Film-Resistor-TH_510R-5100-1_C58675.html
+
+Note:
+1) use of the 3u keycaps will require the stabilizers and omission of the 2 adjacent switches
+2) for custom layouts, a second set of PLUM keycaps is recommended, but alternate keycaps should work (spacing will be off)
+3) the teensy 2.0 needs to be mounted underneath the pcb for clearance, reset button pointed down
+4) the optional parts are for re-use of the stock usb cable and caps lock led
+  for the cable, check the lines with multimeter as the color codes on mine were wrong
+  for the led, re-use the spacer for correct placement, I used 510 ohms, 470 should be okay
+    make sure to connect the led teensy pin separately if using sockets/header pins
