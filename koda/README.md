@@ -8,4 +8,4 @@ The breakout in the middle of the board is:
 4 - D0
 
 Please read the blog concerning this combination:
-https://oddrocketkeyboards.blogspot.com/2018/05/5plit-v2.html
+https://oddrocketkeyboards.blogspot.com/2018/05/koda-keyboard-4x12-grid-using-kailh-lp.html
