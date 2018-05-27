@@ -1,0 +1,10 @@
+bill of materials
+
+Signature Plastic LP Family13 keycaps - blank 1u
+2x pcb (easyeda/jlcpcb/lcsc)
+1x pro micros
+48x diodes - https://lcsc.com/product-detail/Switching-Diode_MCC_1N4148-TP_1N4148-TP_C85687.html
+48x kailh low profile switches of your choice - https://novelkeys.xyz/
+
+Note:
+Contact Signature Plastics/PMK (pimpmykeyboard.com) directly, as these are usually only offered to commercial accounts.
