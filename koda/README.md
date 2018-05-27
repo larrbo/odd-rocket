@@ -1,6 +1,4 @@
-Gerber for 4x12 keyboard that utilizes kailh low profile switches and Signature Plastic's LP Family 13 keycaps - 1u blanks only!
-
-Recommend the no silk gerber for those with prior keyboard experience, or for a less cluttered pcb.
+Gerber for 4x12 keyboard that utilizes kailh low profile switches and Signature Plastic's LP Family 13 keycaps - 1u blanks only! Recommend the no-silk gerber for those with prior keyboard experience, or for a less cluttered pcb.
 
 The breakout in the middle of the board is:
 
