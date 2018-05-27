@@ -9,3 +9,5 @@ The breakout in the middle of the board is:
 
 Please read the blog concerning this combination:
 https://oddrocketkeyboards.blogspot.com/2018/05/koda-keyboard-4x12-grid-using-kailh-lp.html
+
+Shout-out to Mike (novelkeys.xyz) and Melissa (signature plastics/pimpmykeyboard) for their time, patience, and support!
