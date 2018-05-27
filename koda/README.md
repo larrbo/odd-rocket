@@ -2,9 +2,9 @@ Gerber for 4x12 keyboard that utilizes kailh low profile switches and Signature 
 
 The breakout in the middle of the board is:
 
-1 - C6
-2 - VCC
-3 - Ground
+1 - C6,
+2 - VCC,
+3 - Ground,
 4 - D0
 
 Please read the blog concerning this combination:
