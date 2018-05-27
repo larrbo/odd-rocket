@@ -2,9 +2,14 @@ bill of materials
 
 Signature Plastic LP Family13 keycaps - blank 1u
 2x pcb (easyeda/jlcpcb/lcsc)
-1x pro micros
+1x pro micro (recommend a socket)
+12x m2 standoff
+24x m2 screws
 48x diodes - https://lcsc.com/product-detail/Switching-Diode_MCC_1N4148-TP_1N4148-TP_C85687.html
 48x kailh low profile switches of your choice - https://novelkeys.xyz/
 
+optional:
+RGB led strip
+
 Note:
-Contact Signature Plastics/PMK (pimpmykeyboard.com) directly, as these are usually only offered to commercial accounts.
+Contact Signature Plastics/PMK (pimpmykeyboard.com) directly for Family 13 keycaps, as these are usually only offered to commercial accounts.
