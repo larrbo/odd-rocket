@@ -3,8 +3,7 @@ alpsie
 
 An alps-only blocked 4x12 (44 key) ortho with piezo support.
 
-
-Designed by Odd Rocket. 
+https://oddrocketkeyboards.blogspot.com/2018/12/alps-only-blocked-4x12-ortho.html
 
 
 Order Notes: 
