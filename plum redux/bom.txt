@@ -13,7 +13,7 @@ optional
 Note:
 1) use of the 3u keycaps will require the stabilizers and omission of the 2 adjacent switches
 2) for custom layouts, a second set of PLUM keycaps is recommended, but alternate keycaps should work (spacing will be off)
-3) the teensy 2.0 needs to be mounted underneath the pcb for clearance, reset button is pointed up at the pcb
+3) the teensy 2.0 needs to be mounted underneath the pcb for clearance, reset button is pointed down when typing (see pcb)
 4) the optional parts are for re-use of the stock usb cable and caps lock led
   for the cable, check the lines with multimeter as the color codes on mine were wrong
   for the led, re-use the spacer for correct placement, I used 510 ohms, 470 should be okay
